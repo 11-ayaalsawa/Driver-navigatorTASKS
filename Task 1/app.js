@@ -25,3 +25,6 @@ console.log(arr);
 
 saja(x);
 
+
+document.getElementById("task1").innerHTML=saja(x);
+
