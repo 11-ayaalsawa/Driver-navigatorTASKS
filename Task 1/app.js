@@ -7,7 +7,7 @@
 
 // PC: DON'T USE ANY BUILT-IN FUNCTION
 
-let x=[8,3,4,8 ,4,8];
+let x=[4,2,1,8 ,9,8];
 
 
 function saja(x){
@@ -27,4 +27,5 @@ saja(x);
 
 
 document.getElementById("task1").innerHTML=saja(x);
+
 
