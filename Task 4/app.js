@@ -2,7 +2,7 @@
 
 
 console.log("task4");
-
+let y=[2,9,0,4]
 function decendingarray(arr){
     for (let i=0 ; i<arr.length;i++)
     for (let a=i+1; a<arr.length ; a++){
@@ -21,4 +21,4 @@ function decendingarray(arr){
 console.log( decendingarray([2,9,0,4]));
 
 
-document.getElementById("task4").innerHTML=console.log( decendingarray([2,9,0,4]));
+document.getElementById("task4").innerHTML=console.log( decendingarray(y));
